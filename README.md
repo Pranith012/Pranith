@@ -1,6 +1,5 @@
 Temperature Model
-weather_multiple.txt.txt
-weather_single.txt.txt This project implements a simple Python script to calculate the temperature at a given time using a quadratic formula:
+ This project implements a simple Python script to calculate the temperature at a given time using a quadratic formula:
 [ Temperature = a * time ^ 2 + *time +c]
 Features
 Hard-coded values
